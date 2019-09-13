@@ -1,0 +1,25 @@
+1 Panadol Tablet 201 32
+2 Antinal Tablet 403 24
+3 Asprin Tablet 217 37
+4 Taxol Injection 507 17
+End
+Antinal 20.0 Karma
+Taxol 41.3 ElBalad
+Panadol 17.1 Karma
+Asprin 7.2 Tamo
+End
+32 12Package
+18 30Package
+47 24Package
+158 34Package
+68 27Package
+End
+37 Antinal 2 2Daily
+15 Taxol 6 1Daily
+94 Asprin 2 3Daily
+58 Antinal 1 1Daily
+End
+7 147 20Hag_st
+2 150 8Wadi_st
+5 146 12Badr_st
+End
